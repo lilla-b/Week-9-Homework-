@@ -1,1 +1,2 @@
-# Week-9-Homework-
+# Week-9-Homework
+Contains the jupyter notebook for the Probability and Statistics homework assignment.
